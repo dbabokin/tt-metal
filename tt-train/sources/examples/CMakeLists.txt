@@ -1,3 +1,4 @@
+add_subdirectory(crash_repro_22754)
 add_subdirectory(linear_regression)
 add_subdirectory(linear_regression_ddp)
 add_subdirectory(nano_gpt)
